@@ -1,0 +1,9 @@
+streamlit
+faiss-cpu
+sentence-transformers
+torchvision
+python-dotenv
+pydantic
+numpy
+nltk
+pytest

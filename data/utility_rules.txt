@@ -1,0 +1,11 @@
+Utility Rules for Tenants
+
+- Tenants must pay electricity, water, and gas bills.
+- Bills should be paid on time.
+
+Landlord cannot:
+- Disconnect utilities without legal reason
+- Use utilities to force eviction
+
+Disputes:
+- Should be resolved through agreement or legal authority
